@@ -10,7 +10,7 @@
 - 💬 I'm highly interested in technology as a whole, but espcially the development of medcial devices and software development and engineering is an important part of the process, in which I would like to learn more about
 
 - 📫 How to reach me: n_josiah98@live.co.uk // linkedin.com/in/nnaemeka-josiah-19144219
-- ⚡ Fun fact: I have owned every Playstation console starting from PS1
+- ⚡ Fun fact: I have owned every Playstation console starting from PS1!
 <!--
 **NJosiah/NJosiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
