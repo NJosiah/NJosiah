@@ -3,7 +3,7 @@
 ### Glad you're here taking some time to read my GitHub profile 
 
 - 🔭 I want to branch into tech, preferably medcical tech as I have a scientific background graduating with a Biomedical Engineering degree.
-  I have previously worked with some bits of coding languages such as C++ and model and coding programs such as Simulink & MATLab.
+  I have previous experience with Python alongside model and coding programs such as Simulink & MATLab.
 
 - 🌱 I’m currently learning thw world of Python and would love to develop and grow my knowledge and qualities on such a useful high income skill
 
